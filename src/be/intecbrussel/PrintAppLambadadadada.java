@@ -1,3 +1,5 @@
+package be.intecbrussel;
+
 public class PrintAppLambadadadada {
     public static void main(String[] args) {
         Thread thread1 = new Thread(() -> print('#', 100));

@@ -1,3 +1,5 @@
+package be.intecbrussel;
+
 public class PrinterAppRunnable {
     public static void main(String[] args) {
         CharacterPrinter printer1 = new CharacterPrinter('*', 100);

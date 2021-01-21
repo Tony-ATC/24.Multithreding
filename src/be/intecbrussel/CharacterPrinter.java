@@ -1,3 +1,5 @@
+package be.intecbrussel;
+
 public class CharacterPrinter implements Runnable {
     private char c;
     private int count;
